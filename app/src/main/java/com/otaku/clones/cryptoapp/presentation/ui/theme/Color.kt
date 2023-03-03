@@ -1,4 +1,4 @@
-package com.otaku.clones.cryptoapp.ui.theme
+package com.otaku.clones.cryptoapp.presentation.ui.theme
 
 import androidx.compose.ui.graphics.Color
 
